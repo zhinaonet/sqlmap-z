@@ -1,5 +1,5 @@
 # sqlmap
-sqlmap-z是深圳市智可网络科技有限公司员工jking推出的一个修改版(优化版)
+sqlmap-z是深圳市智可网络科技有限公司员工jking推出的sqlmap修改版(优化版) 感谢sqlmap原作者开源
 
 ----
 
