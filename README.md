@@ -4,6 +4,7 @@ sqlmap-z是深圳市智可网络科技有限公司员工jking推出的一个修�
 ----
 
 sqlmap-z-v1.0
+
 1.修改common-tables，添加Aspcms表
 
 2.修改sqlmap默认最大线程数为99999线程
