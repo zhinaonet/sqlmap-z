@@ -1,6 +1,36 @@
 # Copyright (c) 2006-2017 sqlmap developers (http://sqlmap.org/)
 # See the file 'doc/COPYING' for copying permission
-
+# add aspcms tables
+AspCms_Adv
+AspCms_Apply
+AspCms_Collect
+AspCms_Collect_Content
+AspCms_Comments
+AspCms_Content
+AspCms_Custom
+AspCms_Data
+AspCms_FormSet
+AspCms_GuestBook
+AspCms_KeyWords
+AspCms_Labels
+AspCms_Language
+AspCms_Links
+AspCms_Menu
+AspCms_Order
+AspCms_Order2
+AspCms_OrderProduct
+AspCms_Scene
+AspCms_smsnum
+AspCms_smsRecord
+AspCms_smssort
+AspCms_Sort
+AspCms_SpecSet
+AspCms_TabSet
+AspCms_Tag
+AspCms_User
+AspCms_UserGroup
+Aspcms_Visits
+Aspcms_vote
 users
 customer
 user
