@@ -1,5 +1,7 @@
 # sqlmap
-sqlmap-z-v1.0是深圳市智可网络科技有限公司jking推出的一个修改版(优化版)
+sqlmap-z是深圳市智可网络科技有限公司jking推出的一个修改版(优化版)
+
+----
 
 sqlmap-z-v1.0
 1.修改common-tables，添加Aspcms表
